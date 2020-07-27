@@ -1,0 +1,260 @@
+{
+    "categorias": [
+      {
+        "titulo": "Front End",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Formação de Front End na Alura",
+          "url": "https://www.alura.com.br/cursos-online-front-end"
+        },
+        "videos": [
+          {
+            "titulo": "Sem Filtro: Flamengo | Assista ao filme na íntegra",
+            "url": "https://www.youtube.com/watch?v=uDZPSAXsqhI"
+          },
+          {
+            "titulo": "SEO com React",
+            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          },
+          {
+            "titulo": "Componentização com VanillaJS #AluraMais",
+            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          },
+          {
+            "titulo": "Pare de chutar e aprenda a display: inline #01",
+            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          },
+          {
+            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          },
+          {
+            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          },
+          {
+            "titulo": "Novidades do Angular v9",
+            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          },
+          {
+            "titulo": "Base para aprender os frameworks",
+            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          }        
+        ]
+      },
+      {
+        "titulo": "Back End",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Cursos de Back End na Alura",
+          "url": "https://www.alura.com.br/cursos-online-programacao"
+        },
+        "videos": [
+          {
+            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          },
+          {
+            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          },
+          {
+            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          },
+          {
+            "titulo": "API: Dicionário do Programador",
+            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          }, 
+          {
+            "titulo": "Usando Git Direito",
+            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          }
+        ]
+      },
+      {
+        "titulo": "Data Science e Inteligência Artificial",
+        "cor": "#9cd33b",
+        "link_extra": {
+          "text": "Cursos de Data Science na Alura",
+          "url": "https://www.alura.com.br/formacao-data-science"
+        },
+        "videos": [
+          {
+            "titulo": "Teste de Turing",
+            "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          },
+          {
+            "titulo": "O que é Data Science?",
+            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          },
+          {
+            "titulo": "Melhor forma de aprender Python",
+            "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          },
+          {
+            "titulo": "Como ingressar no mercado de Data Science?",
+            "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          }
+        ]
+      },
+      {
+        "titulo": "Filmes",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "Interestellar",
+            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          },
+          {
+            "titulo": "Gattaca",
+            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          },
+          {
+            "titulo": "A Chegada",
+            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          },
+          {
+            "titulo": "Feitiço do Tempo",
+            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          }
+        ]
+      },
+      {
+        "titulo": "Libertadores 2019",
+        "cor": "red",
+        "link_extra": {
+          "text": "Flamengo 5 x 0 Grêmio",
+          "url": "https://www.youtube.com/watch?v=gKEuKsWf5sc"
+        },
+        "videos": [
+          {
+            "titulo": "Flamengo 5 x 0 Grêmio",
+            "url": "https://www.youtube.com/watch?v=gKEuKsWf5sc"
+          },
+          {
+            "titulo": "CLASSIFICAÇÃO HEROICA DO FLAMENGO",
+            "url": "https://www.youtube.com/watch?v=w8-D2EgModU"
+          },
+          {
+            "titulo": "Flamengo 2 x 1 River",
+            "url": "https://www.youtube.com/watch?v=fU0VTqvEoIM"
+          },
+          {
+            "titulo": "Flamengo 3x0 Barcelona de Guayaquil",
+            "url": "https://www.youtube.com/watch?v=7NmWRRuUhgM"
+          },
+          {
+            "titulo": "Junior Barranquilla 1x2 Flamengo",
+            "url": "https://www.youtube.com/watch?v=otvaILVBQ2s"
+          }
+        ]
+      },
+      {
+        "titulo": "Brasileiro 2019",
+        "cor": "#6b5be2",
+        "link_extra": {
+          "text": "Curso sobre aprendizado na Alura",
+          "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        },
+        "videos": [
+          {
+            "titulo": "TODA TRAJETÓRIA DO FLAMENGO NO BRASILEIRÃO SÉRIE A 2019",
+            "url": "https://www.youtube.com/watch?v=fHEYXafrOeg"
+          },
+          {
+            "titulo": "Flamengo 2 x 0 Fortaleza ",
+            "url": "https://www.youtube.com/watch?v=pOY7UPpcce8&list=PLXpeOqB2aqMbaNWT47x26dpxaP2iw2NA1&index=26"
+          },
+          {
+            "titulo": "Flamengo 6 x 1 Goiás ",
+            "url": "https://www.youtube.com/watch?v=Pa_Jf_wduGI&list=PLXpeOqB2aqMbaNWT47x26dpxaP2iw2NA1&index=32"
+          },
+          {
+            "titulo": "Corinthians 1 x 1 Flamengo",
+            "url": "https://www.youtube.com/watch?v=XvuOUdhCS14&list=PLXpeOqB2aqMbaNWT47x26dpxaP2iw2NA1&index=34"
+          },
+          {
+            "titulo": "Flamengo 3 x 1 Grêmio",
+            "url": "https://www.youtube.com/watch?v=HvHPafpk18k&list=PLXpeOqB2aqMbaNWT47x26dpxaP2iw2NA1&index=38"
+          }
+        ]
+      },
+      {
+        "titulo": "Elenco lendário",
+        "cor": "red",
+        "elenco": [
+          {
+            "nome": "Jorge Jesus",
+            "descricao": "",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/jorge-jesus.jpg"
+          },
+          {
+            "nome": "Diego Alves",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/diego-alves.jpg"
+          },
+
+          {
+            "nome": "Pablo Mari",
+            "descricao": "",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/pablo-mari.jpg"
+          },
+          
+          {
+            "nome": "Rodrigo Caio",
+            "descricao": "",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/rodrigo-caio.jpg"
+          },
+          
+          {
+            "nome": "Felipe Luís",
+            "descricao": "",
+            "figura": "  https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/filipe-luis.jpg"
+          },
+          {
+            "nome": "Rafinha",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/rafinha.jpg"
+          },
+
+          
+          {
+            "nome": "Willian Arão",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/willian-arao.jpg"
+          },
+
+
+          {
+            "nome": "Gerson",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/gerson.jpg"
+          },
+
+
+          {
+            "nome": "Arrascaeta",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/arrascaeta.jpg"
+          },
+
+
+          
+          
+          {
+            "nome": "Everton Ribeiro",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/everton-ribeiro.jpg"
+          },
+
+
+          {
+            "nome": "Bruno Henrique",
+            "descricao": "",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/bruno-henrique.jpg"
+          },
+          {
+            "nome": "Gabigol",
+            "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/gabigol.jpg"
+          }
+        ]
+      }
+    ]
+  }
+
