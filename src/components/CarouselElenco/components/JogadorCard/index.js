@@ -10,19 +10,22 @@ function getYouTubeId(youtubeURL) {
 }
 
 
-function JogadorCard({ nome, figuraURL, categoryColor }) {
+function JogadorCard({ nome, figuraURL, categoryColor, posicao }) {
   // const image = `https://img.youtube.com/vi/${getYouTubeId(videoURL)}/hqdefault.jpg`;
   return (
     <>
     <JogadorCardContainer
       url={figuraURL}
-      // href={videoURL}
       target="_blank"
       style={{ borderColor: categoryColor || 'red' }}
       nome={nome}
     >
+      <div>
         <img src={figuraURL} alt="jj"></img>
-        <div><br/>{ nome }</div>
+          <div><br/>{ nome }</div>
+          <div className="text-muted">{ posicao }
+        </div>
+      </div>
 
     </JogadorCardContainer>
  

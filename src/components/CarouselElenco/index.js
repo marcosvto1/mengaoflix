@@ -36,6 +36,7 @@ function VideoCardGroup({
                 nome={jogador.nome}
                 figuraURL={jogador.figura}
                 categoryColor={categoryColor}
+                posicao={jogador.posicao}
               />
             </li>
           );

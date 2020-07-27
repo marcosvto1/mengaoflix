@@ -153,7 +153,7 @@
       },
       {
         "titulo": "Brasileiro 2019",
-        "cor": "#6b5be2",
+        "cor": "#43557d",
         "link_extra": {
           "text": "Curso sobre aprendizado na Alura",
           "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
@@ -187,70 +187,74 @@
         "elenco": [
           {
             "nome": "Jorge Jesus",
-            "descricao": "",
+            "posicao": "Técnico",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/jorge-jesus.jpg"
           },
           {
             "nome": "Diego Alves",
+            "posicao": "Goleiro",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/diego-alves.jpg"
           },
 
           {
             "nome": "Pablo Mari",
-            "descricao": "",
+            "posicao": "Zágueiro",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/pablo-mari.jpg"
           },
           
           {
             "nome": "Rodrigo Caio",
-            "descricao": "",
+            "posicao": "Zágueiro",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/rodrigo-caio.jpg"
           },
           
           {
             "nome": "Felipe Luís",
-            "descricao": "",
+            "posicao": "Lateral",
             "figura": "  https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/filipe-luis.jpg"
           },
           {
             "nome": "Rafinha",
+            "posicao": "Lateral",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/rafinha.jpg"
           },
 
           
           {
             "nome": "Willian Arão",
+            "posicao": "Volante",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/willian-arao.jpg"
           },
 
 
           {
             "nome": "Gerson",
+            "posicao": "Meia",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/gerson.jpg"
           },
 
 
           {
             "nome": "Arrascaeta",
+            "posicao": "meia",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/arrascaeta.jpg"
-          },
-
-
-          
+          },        
           
           {
             "nome": "Everton Ribeiro",
+            "posicao": "Atacante",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/everton-ribeiro.jpg"
           },
 
 
           {
             "nome": "Bruno Henrique",
-            "descricao": "",
+            "posicao": "Atacante",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/bruno-henrique.jpg"
           },
           {
             "nome": "Gabigol",
+            "posicao": "Atacante",
             "figura": "https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/futebol/brasileirao-serie-a/especial/selecao-do-brasileirao-2019/faces/gabigol.jpg"
           }
         ]

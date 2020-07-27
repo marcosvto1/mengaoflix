@@ -8,7 +8,7 @@ export const JogadorCardContainer = styled.a`
   cursor: pointer;
   color: white;
   flex: 0 0 298px;
-  height: 197px;
+  height: 210px;
   border-radius: 10px;
   position: relative;
   display: flex;
@@ -24,4 +24,10 @@ export const JogadorCardContainer = styled.a`
   &:not(:first-child) {
     margin-left: 20px;
   }
+
+  .text-muted {
+    font-size: 11px
+  }
+
+
 `;
