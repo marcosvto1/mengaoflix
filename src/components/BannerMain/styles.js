@@ -16,6 +16,16 @@ export const ContentAreaContainer = styled.section`
   }
 `;
 
+export const OverlayContainer = styled.div`
+  background-color: #61282869;
+  height: 100%;
+  z-index: 999;
+  @media (max-width: 800px) {
+    padding-top: 100px;
+    flex-direction: column;
+  }
+`;
+
 ContentAreaContainer.Item = styled.div`
   width: 50%;
   display: inline-block;
@@ -74,6 +84,7 @@ export const BannerMainContainer = styled.section`
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  transition: all 3s;
 
   @media (max-width: 800px) {
     height: auto;
