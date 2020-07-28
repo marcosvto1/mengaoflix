@@ -26,10 +26,6 @@ function Home() {
       <Carousel
         category={dadosIniciais.categorias[5]}
       />         
-         
-      <CarouselElenco
-        category={dadosIniciais.categorias[6]}
-      />         
 
       <Footer />
 

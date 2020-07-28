@@ -84,7 +84,10 @@ export const BannerMainContainer = styled.section`
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  transition: all 3s;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
 
   @media (max-width: 800px) {
     height: auto;
