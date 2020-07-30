@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Libertadoras",
+            "descricao": "Flamengo foi campeao",
+            "cor": "red"
+        },
+        {
+            "id": 1,
+            "nome": "Brasileiro",
+            "descricao": "Flamengo foi campeao",
+            "cor": "red"
+        }
+    ]
+}
