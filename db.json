@@ -1,16 +1,111 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Libertadoras",
-            "descricao": "Flamengo foi campeao",
-            "cor": "red"
-        },
-        {
-            "id": 1,
-            "nome": "Brasileiro",
-            "descricao": "Flamengo foi campeao",
-            "cor": "red"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "",
+      "descricao": "Flamengo foi campeão da libertadores",
+      "cor": "#9f1e1e",
+      "titulo": "Libertadoras 2019"
+    },
+    {
+      "id": 2,
+      "nome": "",
+      "descricao": "Brasileiro 2019",
+      "cor": "#426fb8",
+      "titulo": "Brasileirão 2019"
+    },
+    {
+      "id": 3,
+      "nome": "",
+      "descricao": "",
+      "cor": "#228c42",
+      "titulo": "Mundial"
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Flamengo 5 x 0 Grêmio",
+      "url": "https://www.youtube.com/watch?v=bJyAWo-tPsU",
+      "categoriaId": 1,
+      "id": 2
+    },
+    {
+      "titulo": "Flamengo 2x1 River Plate",
+      "url": "https://www.youtube.com/watch?v=iSJGvvIACpw",
+      "categoriaId": 1,
+      "id": 3
+    },
+    {
+      "titulo": "Flamengo Campeão",
+      "url": "https://www.youtube.com/watch?v=N-TW_4PyPrs",
+      "categoriaId": 2,
+      "id": 4
+    },
+    {
+      "titulo": "Flamengo x Palmeiras",
+      "url": "https://www.youtube.com/watch?v=obifs2beefQ",
+      "categoriaId": 2,
+      "id": 5
+    },
+    {
+      "titulo": "Junior 1 x 2 Flamengo",
+      "url": "https://www.youtube.com/watch?v=KsyLLDBjSBk",
+      "categoriaId": 1,
+      "id": 6
+    },
+    {
+      "titulo": "Os melhores momentos do bicampeonato do Flamengo!",
+      "url": "https://www.youtube.com/watch?v=AcWv8MMLEcg&feature=emb_title",
+      "categoriaId": 1,
+      "id": 7
+    },
+    {
+      "titulo": "A Gloria Eterna",
+      "url": "https://www.youtube.com/watch?v=6C21GC8J5cA",
+      "categoriaId": 1,
+      "id": 8
+    },
+    {
+      "titulo": "Os minutos finais de Flamengo 2x1 River Plate",
+      "url": "https://www.youtube.com/watch?v=YUjs0i72ZIw",
+      "categoriaId": 1,
+      "id": 9
+    },
+    {
+      "titulo": "REI DA AMÉRICA - O FILME - A CAMPANHA DO MENGÃO DO MATA-MATA ATÉ O TÍTULO DA LIBERTADORES 2019",
+      "url": "https://www.youtube.com/watch?v=2M9AnYYVbuw&t=194s",
+      "categoriaId": 1,
+      "id": 10
+    },
+    {
+      "titulo": "Corinthians 0 x 1 Flamengo",
+      "url": "https://www.youtube.com/watch?v=rke9vFwFbmk",
+      "categoriaId": 2,
+      "id": 11
+    },
+    {
+      "titulo": "Flamengo 6 x 1 Goiás ",
+      "url": "https://www.youtube.com/watch?v=Pa_Jf_wduGI&t=46s",
+      "categoriaId": 2,
+      "id": 12
+    },
+    {
+      "titulo": "Flamengo 2 x 0 Fortaleza ",
+      "url": "https://www.youtube.com/watch?v=pOY7UPpcce8&t=2s",
+      "categoriaId": 2,
+      "id": 13
+    },
+    {
+      "titulo": "Flamengo 3x1 Al-Hilal",
+      "url": "https://www.youtube.com/watch?v=tvSobboIbjM",
+      "categoriaId": 3,
+      "id": 14
+    },
+    {
+      "titulo": "LIVERPOOL 1 X 0 FLAMENGO",
+      "url": "https://www.youtube.com/watch?v=hUpVTWjIwcw",
+      "categoriaId": 3,
+      "id": 15
+    }
+  ]
 }

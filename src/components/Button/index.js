@@ -1,9 +1,9 @@
-const { default: styled } = require("styled-components");
+const { default: styled, css } = require("styled-components");
 
 const Button = styled.button`
     color: var(--white);
     border: 1px solid var(--red);
-    background-color: var(--black);
+    background-color: ${(props) => props.color ? 'red' : css`var(--black)`};
     box-sizing: border-box;
     cursor: pointer;
     padding: 16px 24px;

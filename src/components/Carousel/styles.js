@@ -7,11 +7,10 @@ export const Title = styled.h3`
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
-  padding: 20px;
-  background: red;
+  padding: 10px;
   line-height: 1;
   border-radius: 4px;
-
+  color: #eee;
   @media (max-width: 800px) {
     font-size: 18px;
     padding: 10px;

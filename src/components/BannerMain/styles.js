@@ -17,8 +17,8 @@ export const ContentAreaContainer = styled.section`
 `;
 
 export const OverlayContainer = styled.div`
-  background-color: #61282869;
-  height: 100%;
+  background: rgb(0,0,0);
+  background: linear-gradient(0deg,rgba(0,0,0,0.8225490025111607) 0%,rgba(0,0,0,0.6432772938276874) 12%,rgba(255,3,3,0.20070026301536237) 100%);  height: 100%;
   z-index: 999;
   @media (max-width: 800px) {
     padding-top: 100px;
@@ -80,7 +80,7 @@ export const BannerMainContainer = styled.section`
   height: 80vh;
   position: relative;
   color: #fff;
-  background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
+  background-image: ${({ backgroundImage }) => `url(${backgroundImage})`};
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

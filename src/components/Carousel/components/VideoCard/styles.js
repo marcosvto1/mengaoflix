@@ -1,8 +1,7 @@
 import styled from 'styled-components';
 
 export const VideoCardContainer = styled.a`
-  border: 2px solid;
-  border-radius: 4px;
+  /* border: 2px solid; */
   text-decoration: none;
   overflow: hidden;
   cursor: pointer;
@@ -23,7 +22,8 @@ export const VideoCardContainer = styled.a`
   transition: opacity .3s;
   &:hover,
   &:focus {
-    opacity: .5;
+    border: none;
+    
   }
 
   
@@ -31,4 +31,16 @@ export const VideoCardContainer = styled.a`
   &:not(:first-child) {
     margin-left: 20px;
   }
+`;
+
+export const VideoCardOverlay = styled.div`
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 298px;
+  height: 197px;
+  background: ${({color}) => `linear-gradient(0deg, rgba(0,0,0,1) 0%, ${color} 100%);`};
+  opacity: 0.38
 `;
